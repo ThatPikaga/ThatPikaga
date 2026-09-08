@@ -1,15 +1,30 @@
-- 👋 Hi, I’m @GabeTheGoober
-- 👀 Honestly not to sure if I'll make any projects but thats why I made an account. Just in case...
-- 🌱 I’m currently learning python
-- 📫 How to reach me ... IDK
-- 😄 Pronouns: he/him
-- ⚡ Fun fact [Google] ⤵️
-  
-**Still to come...**
-  
+# Hi there, I'm... just another soul
 
+Welcome to my digital cabinet of curiosities. I mostly make tiny, highly specific projects that solve my specific problems, not yours, so just maybe you find that it is almost useless.
 
-<!---
-GabeTheGoober/GabeTheGoober is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### My Coding Philosophy
+* If it takes more than 50 lines of code, it’s a lifestyle, not a script.
+* Have a problem but no app that you can find without a paywall... Time to pull out the nogin.
+
+---
+
+### GitHub Stats
+
+* **Main Language:** `Ctrl + Z`
+* **Current Status:** Staring at a missing semicolons and brackets for 45 minutes.
+* **Coffee consumed:** Surprisingly none.
+* **Bugs turned into features:** Not to be mentioned
+
+---
+
+### 🏆 Achievements Unlocked
+* 🥇 Wrote a README before writing any actual code.
+* 🥈 Successfully broke a working environment just to see how it happened.
+* 🥉 Left `console.log('test')` in production.
+
+---
+
+### How to Reach Me?
+* I don't know. 
